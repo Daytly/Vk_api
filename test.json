@@ -1,0 +1,180 @@
+{
+  'copy_history': [
+    {
+      'type': 'post',
+      'attachments': [
+        {
+          'type': 'photo',
+          'photo': {
+            'album_id': -7,
+            'date': 1599073278,
+            'id': 457442096,
+            'owner_id': -149478522,
+            'access_key': '4d0cf1a9f8d6b0f405',
+            'post_id': 970218,
+            'sizes': [
+              {
+                'height': 130,
+                'type': 'm',
+                'width': 83,
+                'url': 'https://sun9-9.userapi.com/impg/w434fHShkgnEHNu8yVPmoH9TnIT7ynS0B5LA6A/3sQjFFsoKDY.jpg?size=83x130&quality=96&sign=9d4f08ea1f3acabd05a8b7973303f064&c_uniq_tag=_sqWxJkhYqs3sdbFBce8-1FvLnTPrvxHcLyzi7Lk3Fc&type=album'
+              },
+              {
+                'height': 203,
+                'type': 'o',
+                'width': 130,
+                'url': 'https://sun9-9.userapi.com/impg/w434fHShkgnEHNu8yVPmoH9TnIT7ynS0B5LA6A/3sQjFFsoKDY.jpg?size=130x203&quality=96&sign=8907f33308d8c7478c7ce7efc6f35569&c_uniq_tag=MnSBn88yN10HPYWwjMXChxx2TaEO1jIFPFxvlcAdU2I&type=album'
+              },
+              {
+                'height': 312,
+                'type': 'p',
+                'width': 200,
+                'url': 'https://sun9-9.userapi.com/impg/w434fHShkgnEHNu8yVPmoH9TnIT7ynS0B5LA6A/3sQjFFsoKDY.jpg?size=200x312&quality=96&sign=db3a1e693833876c4131a3ac10097b05&c_uniq_tag=TJjIfXPvmvt0PVTPxltAI7-x_3ivFlov4Xc6K219-Kw&type=album'
+              },
+              {
+                'height': 499,
+                'type': 'q',
+                'width': 320,
+                'url': 'https://sun9-9.userapi.com/impg/w434fHShkgnEHNu8yVPmoH9TnIT7ynS0B5LA6A/3sQjFFsoKDY.jpg?size=320x499&quality=96&sign=3ecfe94e05470edc552b55fb0ab80b7f&c_uniq_tag=fv9VY-uyUiF6F_FLU6z9j7ZqgQ6Udo4PZFDK10iVNoM&type=album'
+              },
+              {
+                'height': 762,
+                'type': 'r',
+                'width': 489,
+                'url': 'https://sun9-9.userapi.com/impg/w434fHShkgnEHNu8yVPmoH9TnIT7ynS0B5LA6A/3sQjFFsoKDY.jpg?size=489x762&quality=96&sign=44b04e9e4bdd9542a4fd7f4f95d7dedf&c_uniq_tag=JQtRuwtOFdEN99DIsvOHkXuud7i67MWvvu9vYIYIvfE&type=album'
+              },
+              {
+                'height': 75,
+                'type': 's',
+                'width': 48,
+                'url': 'https://sun9-9.userapi.com/impg/w434fHShkgnEHNu8yVPmoH9TnIT7ynS0B5LA6A/3sQjFFsoKDY.jpg?size=48x75&quality=96&sign=c6ba6271009350126f2767962d2e43f0&c_uniq_tag=qy1SICBWV6U0mSNBMhbeu2E3GDcZG33UiSKPfF6iMok&type=album'
+              },
+              {
+                'height': 604,
+                'type': 'x',
+                'width': 388,
+                'url': 'https://sun9-9.userapi.com/impg/w434fHShkgnEHNu8yVPmoH9TnIT7ynS0B5LA6A/3sQjFFsoKDY.jpg?size=388x604&quality=96&sign=8889bad5b5743e10e127d905490ac1b0&c_uniq_tag=Ikv4IHBLMg6oJM6GNP0Q_zIhqY_fpf4c37zzcnXky0I&type=album'
+              },
+              {
+                'height': 762,
+                'type': 'y',
+                'width': 489,
+                'url': 'https://sun9-9.userapi.com/impg/w434fHShkgnEHNu8yVPmoH9TnIT7ynS0B5LA6A/3sQjFFsoKDY.jpg?size=489x762&quality=96&sign=44b04e9e4bdd9542a4fd7f4f95d7dedf&c_uniq_tag=JQtRuwtOFdEN99DIsvOHkXuud7i67MWvvu9vYIYIvfE&type=album'
+              }
+            ],
+            'text': '',
+            'user_id': 100
+          }
+        }
+      ],
+      'date': 1599091200,
+      'from_id': -149478522,
+      'id': 970218,
+      'owner_id': -149478522,
+      'post_source': {
+        'type': 'vk'
+      },
+      'post_type': 'post',
+      'text': ''
+    }
+  ],
+  'can_delete': 1,
+  'can_pin': 1,
+  'comments': {
+    'can_post': 1,
+    'can_close': 1,
+    'count': 0,
+    'groups_can_post': True
+  },
+  'hash': 'g8cCBvu-BF3AVyVrkqagD3IJiC_2',
+  'type': 'post',
+  'attachments': [],
+  'can_archive': True,
+  'date': 1599178796,
+  'from_id': 526858982,
+  'id': 4,
+  'is_archived': False,
+  'is_favorite': False,
+  'likes': {
+    'can_like': 1,
+    'count': 1,
+    'user_likes': 0,
+    'can_publish': 1,
+    'repost_disabled': False
+  },
+  'owner_id': 526858982,
+  'post_source': {
+    'platform': 'android',
+    'type': 'api'
+  },
+  'post_type': 'post',
+  'reposts': {
+    'count': 0,
+    'wall_count': 0,
+    'mail_count': 0,
+    'user_reposted': 0
+  },
+  'text': '',
+  'views': {
+    'count': 76
+  }
+}
+{
+  'copy_history': [
+    {
+      'type': 'post',
+      'is_deleted': True,
+      'deleted_reason': 'Запись удалена',
+      'deleted_details': '',
+      'date': 1570216500,
+      'from_id': -140936727,
+      'id': 624812,
+      'owner_id': -140936727,
+      'post_source': {
+        'type': 'vk'
+      },
+      'post_type': 'post',
+      'text': 'Запись удалена '
+    }
+  ],
+  'can_delete': 1,
+  'can_pin': 1,
+  'comments': {
+    'can_post': 1,
+    'can_close': 1,
+    'count': 0,
+    'groups_can_post': True
+  },
+  'hash': '6TMWrl3s8Yp9gSPmDefEDxRCl3pX',
+  'type': 'post',
+  'attachments': [],
+  'can_archive': True,
+  'date': 1570277324,
+  'from_id': 526858982,
+  'id': 2,
+  'is_archived': False,
+  'is_favorite': False,
+  'likes': {
+    'can_like': 1,
+    'count': 3,
+    'user_likes': 0,
+    'can_publish': 1,
+    'repost_disabled': False
+  },
+  'owner_id': 526858982,
+  'post_source': {
+    'platform': 'android',
+    'type': 'api'
+  },
+  'post_type': 'post',
+  'reposts': {
+    'count': 0,
+    'wall_count': 0,
+    'mail_count': 0,
+    'user_reposted': 0
+  },
+  'text': '',
+  'views': {
+    'count': 122
+  }
+}
